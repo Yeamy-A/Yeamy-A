@@ -23,4 +23,4 @@ I am a Software Developer from **Addis Ababa, Ethiopia**, focused on building ac
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-[Connect with me on LinkedIn](YOUR_LINKEDIN_URL_HERE)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/yeamlak-asrat-2304jc/)
